@@ -1,13 +1,16 @@
 ## Welcome!
 
-My name is Caleb Won and I'm a games programmer who is particularly interested in physics, system design, and animations! For some quick introductions here are some facts about me (as of 7/3/2025):
+My name is Caleb Won and I'm a games programmer who is particularly interested in physics, system design, and animations! I currently live in the U.S. and am pursuing a Master's in Interactive Technology from Southern Methodist University in Texas. 
+
+
+Here are some facts about me (as of 7/3/2025):
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td><img src="./Images/Me.jpg" alt="Diagram" width="400"/></td>
+<td><img src="./Images/Weiss.jpg" alt="Diagram" width="250"/></td>
 <td>
 
-  - My favorite game currently is NieR Replicant.
+  - I am a big fan of series like NieR, Halo, Fire Emblem, Street Fighter, and frankly too many others to name.
   - My favorite game genres are: RPGs, Fighting Games, and First Person Shooters.
   - My favorite foods are tied between Mexican and Korean food (big spice lover).
   - Hobbies outside of games include cooking, drawing, and model kit building. In particular Gundam models!
@@ -18,6 +21,9 @@ My name is Caleb Won and I'm a games programmer who is particularly interested i
 </td>
 </tr>
 </table>
+
+# Some Projects on Here...
+
 
 <!--
 **Wonton230/Wonton230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,7 +7,7 @@ Here are some facts about me (as of 7/3/2025):
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td><img src="./Images/Weiss.jpg" alt="Diagram" width="250"/></td>
+<td><img src="./Images/Weiss.png" alt="Diagram" width="250"/></td>
 <td>
 
   - I am a big fan of series like NieR, Halo, Fire Emblem, Street Fighter, and frankly too many others to name.

@@ -1,4 +1,13 @@
-## Hi there 👋
+## Welcome!
+
+My name is Caleb Won and I'm a games programmer who is particularly interested in physics, system design, and animations! For some quick introductions here are some facts about me (as of 7/3/2025):
+  - My favorite game currently is NieR Replicant.
+  - My favorite game genres are: RPGs, Fighting Games, and First Person Shooters.
+  - My favorite foods are tied between Mexican and Korean food (big spice lover).
+  - Hobbies outside of games include cooking, drawing, and model kit building. In particular Gundam models!
+  - I am a dog person.
+  - My go to music genres are anything close to RnB, funk, and J-pop.
+  - I'm 100% Korean, but was completely born and raised in Texas (yeehaw).
 
 <!--
 **Wonton230/Wonton230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

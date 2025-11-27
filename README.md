@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Caleb Won and I'm a games programmer who is particularly interested in physics, system design, and animations! I currently live in the U.S. and am pursuing a Master's in Interactive Technology from Southern Methodist University in Texas. 
+My name is Caleb Won and I'm a games programmer who is particularly interested in physics, user interface design, AI, and animations! I currently live in the U.S. and am pursuing a Master's in Interactive Technology from Southern Methodist University in Texas. 
 
 
 Here are some facts about me (as of 7/3/2025):

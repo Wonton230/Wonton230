@@ -29,7 +29,12 @@ This is the game engine that powers other games and demos on this page. It suppo
 
 ## [Skeletal Animation System](https://github.com/Wonton230/Skeletal-Animation-Demo)
 This is a basic skeletal animation system created in Forseti Engine which uses FBX files as input. It supports basic features like animation blending with layers, local space pose construction, skinned mesh rendering, and animation state definitions and transitions. In addition, the system also provides foot and arm IK solver classes which allow the entire animated character to react physically to its environments in real time.
-![My Diagram](./Images/DoomensteinSample.png)
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="./Images/SKANIK.png" alt="Diagram" width="400"/></td>
+<td><img src="./Images/IKRig.png" alt="Diagram" width="600"/></td>
+</tr>
+</table>
 
 
 <!--

@@ -24,11 +24,11 @@ Here are some facts about me (as of 11/26/2025):
 
 # Some Projects on Here...
 ## [Forseti Engine](https://github.com/Wonton230/Engine)
-This is the game engine that powers many of the other projects on this page including Doomenstein. It supports the basic needs of 2D and 3D games with some nice features like a Dev Console, DX11 rendering, 3D audio using FMOD, and lots of basic math utilities that make games work in both 2D and 3D space.
+This is the game engine that powers other games and demos on this page. It supports the basic needs of 2D and 3D games with some nice features like a Dev Console, DX11 rendering, 3D audio using FMOD, and lots of basic math utilities that make games work in both 2D and 3D space.
 ![My Diagram](./Images/EngineSample.png)
 
-## [Doomenstein](https://github.com/Wonton230/Doomenstein)
-Doomenstein is a First-Person shooter built in my personal engine. It is a 2.5D game taking queues from its namesake series, DOOM and Wolfenstein. It implements basic gunplay mechanics to fight off demons and even includes a 2 player versus mode using the keyboard/mouse and an Xbox controller.
+## [Skeletal Animation System](https://github.com/Wonton230/Skeletal-Animation-Demo)
+This is a basic skeletal animation system created in Forseti Engine which uses FBX files as input. It supports basic features like animation blending with layers, local space pose construction, skinned mesh rendering, and animation state definitions and transitions. In addition, the system also provides foot and arm IK solver classes which allow the entire animated character to react physically to its environments in real time.
 ![My Diagram](./Images/DoomensteinSample.png)
 
 
